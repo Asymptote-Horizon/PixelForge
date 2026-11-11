@@ -1,0 +1,12 @@
+
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/Sales_Pitch",
+      "destination": "https://youtube.com/playlist?list=PLbwzpAbuNzMw&si=pZHviojGlHs3kM-q",
+      "permanent": false
+    }
+  ]
+}
